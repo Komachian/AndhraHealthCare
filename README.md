@@ -13,7 +13,7 @@
 - [x] Data Visualization
 - [x] Data Statistics(Summary of Statistics)
 - [x] Hypothesis Testing
-- [ ] Prediction Task (Using Machine Learning Model)
+- [x] Prediction Task (Using Machine Learning Model)
 
 ### Deliverables for Mid Semester:
 1. Video length: 10 min
