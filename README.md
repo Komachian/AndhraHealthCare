@@ -1,11 +1,11 @@
 # Instructions
 ## Group - 35, Project - P20
-    - Every group has to submit their work up to “e. Hypothesis Testing” before mid sem and complete work till the end sem.
-    - Every group will have to create a slide and a video and upload it to youtube in which each member of the respective group has to present his/her contribution.
-    - There are no limits on the number of slides, but each teammate has to present his/her part.
-    - Make sure that during the video recording, your face is clearly visible along with the slide you are presenting. (Just text with audio will not be accepted.)
-    - Any kind of interesting facts about data(e.g., kind of different studies which can be done using the collected data), innovative ideas, and/or research ideas (Manipulation or enhancements of existing techniques for better results) will also be considered during evaluation and will be highly appreciated.
-    - In case of any discrepancy, please discuss with your allotted TA i.e Saurabh Sharma, [saurabh_2021CS30@iitp.ac.in](mailto:saurabh_2021CS30@iitp.ac.in)
+- Every group has to submit their work up to “e. Hypothesis Testing” before mid sem and complete work till the end sem.
+- Every group will have to create a slide and a video and upload it to youtube in which each member of the respective group has to present his/her contribution.
+- There are no limits on the number of slides, but each teammate has to present his/her part.
+- Make sure that during the video recording, your face is clearly visible along with the slide you are presenting. (Just text with audio will not be accepted.)
+- Any kind of interesting facts about data(e.g., kind of different studies which can be done using the collected data), innovative ideas, and/or research ideas (Manipulation or enhancements of existing techniques for better results) will also be considered during evaluation and will be highly appreciated.
+- In case of any discrepancy, please discuss with your allotted TA i.e Saurabh Sharma, [saurabh_2021CS30@iitp.ac.in](mailto:saurabh_2021CS30@iitp.ac.in)
 
 ### Tasks
 - [x] Data Collection
